@@ -29,9 +29,9 @@ You will need an installation of Python, plus the following libraries:
 
 
 ## Summary:
-The whole report can be summarized into the following 2 files linked below:
-* [Data Wrangling](https://github.com/YashMotwani/We-Rate-Dogs-Data-Wrangling/blob/master/wrangle_report.html)
-* [Visualizations and Important Insights](https://github.com/YashMotwani/We-Rate-Dogs-Data-Wrangling/blob/master/act_report.pdf)
+The whole report can be summarized into the following 2 files which are present in this repository:
+* For getting a brief of the Data Wrangling process, check `wrangle_report.html`
+* For visualizations and important insights, check `act_report.pdf`
 
 
 ## References
